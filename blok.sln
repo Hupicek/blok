@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blok", "blok\blok.csproj", "{6509F978-4224-425B-B121-DD74400B10E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6509F978-4224-425B-B121-DD74400B10E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6509F978-4224-425B-B121-DD74400B10E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6509F978-4224-425B-B121-DD74400B10E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6509F978-4224-425B-B121-DD74400B10E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9EF986-E1C9-4780-A16D-EAAA98A31638}
+	EndGlobalSection
+EndGlobal
